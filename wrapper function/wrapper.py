@@ -56,7 +56,6 @@ def count(n):
 # value of n
 n = 10000
 
-
 wrapped_function = wrapper(count,n)
 wrapped_function(n)
     
